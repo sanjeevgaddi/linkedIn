@@ -14,6 +14,6 @@ function toggleActivity()
   {
     moreLink.innerHTML = "show less <b>-</b>"
   }
-  else{moreLink.innerHTML = "show More <b>+</b>"
+  else{moreLink.innerHTML = "show More <b>+ </b>"
   }
 }
